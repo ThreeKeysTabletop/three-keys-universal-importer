@@ -1,0 +1,23 @@
+.tkui-app .window-content { padding: 0; display: flex; flex-direction: column; }
+.tkui-tabs { display: flex; gap: 2px; border-bottom: 1px solid var(--color-border, #7a7971); padding: 4px 8px 0; }
+.tkui-tab { padding: 6px 12px; border-radius: 6px 6px 0 0; cursor: pointer; opacity: .75; }
+.tkui-tab.active { opacity: 1; font-weight: bold; background: rgba(120, 100, 200, .2); }
+.tkui-body { padding: 10px 12px; overflow-y: auto; flex: 1; display: flex; flex-direction: column; gap: 8px; }
+.tkui-src { border: 1px solid var(--color-border, #7a7971); border-radius: 6px; padding: 6px 10px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 4px 10px; }
+.tkui-src legend { font-weight: bold; padding: 0 4px; }
+.tkui-src .tkui-attr { grid-column: 1 / -1; font-size: 11px; opacity: .7; margin: 4px 0 0; }
+.tkui-cat { display: flex; align-items: center; gap: 4px; }
+.tkui-have { font-size: 11px; color: #3a9d5d; margin-left: auto; }
+.tkui-lic, .tkui-dim { font-size: 11px; opacity: .7; }
+.tkui-bar { display: flex; gap: 6px; justify-content: flex-end; }
+.tkui-bar button { flex: 0 0 auto; width: auto; padding: 2px 12px; }
+.tkui-go { font-weight: bold; }
+.tkui-row { display: grid; grid-template-columns: 140px 1fr auto; gap: 6px; align-items: center; margin: 3px 0; }
+.tkui-row > :nth-child(2):last-child { grid-column: 2 / -1; }
+.tkui-custom textarea[name=text] { width: 100%; font-family: monospace; font-size: 12px; }
+.tkui-status { min-height: 1.2em; font-style: italic; }
+.tkui-err { color: #c0392b; font-weight: bold; }
+.tkui-res { padding: 3px 0; border-bottom: 1px dotted #888; }
+.tkui-preview table { width: 100%; font-size: 12px; }
+.tkui-about p { margin: 0 0 8px; }
+#tkui-open { margin: 4px 0; }

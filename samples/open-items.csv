@@ -1,0 +1,4 @@
+name,kind,itemType,rarity,price,weight,damage,description
+Fen Spear,item,simple melee weapon,,2 gp,3,1d6 piercing,"A light spear with a reed-wrapped haft. Sample by Three Keys Tabletop, CC0."
+Peat Tonic,item,potion,common,25 gp,0.5,,"Drinking this tonic ends one disease or the poisoned condition. Sample by Three Keys Tabletop, CC0."
+Ember Charm,item,wondrous item,uncommon,120 gp,0,,"While you carry this charm, you have resistance to cold damage. Sample by Three Keys Tabletop, CC0."

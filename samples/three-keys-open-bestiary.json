@@ -1,0 +1,17 @@
+{
+  "title": "Three Keys Open Bestiary (sample)",
+  "license": "CC0-1.0",
+  "attribution": "Three Keys Open Bestiary sample by Three Keys Tabletop, dedicated to the public domain under CC0 1.0.",
+  "results": [
+    { "kind": "monster", "name": "Bog Lantern", "size": "Small", "creatureType": "elemental", "alignment": "chaotic neutral",
+      "ac": 13, "hp": 22, "hpFormula": "5d6 + 5", "speed": "0 ft., fly 40 ft. (hover)",
+      "str": 3, "dex": 16, "con": 12, "int": 6, "wis": 12, "cha": 14, "skills": "Stealth +5", "senses": "darkvision 60 ft., passive Perception 11",
+      "languages": "understands Primordial but can't speak", "cr": "1/2", "di": "fire, poison", "ci": "poisoned",
+      "traits": [{ "name": "False Light", "desc": "While motionless, the bog lantern looks like a lantern carried by a distant traveller." }],
+      "actions": [{ "name": "Searing Touch", "desc": "Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) fire damage." },
+                  { "name": "Lure (Recharge 5-6)", "desc": "One creature the bog lantern can see within 60 feet must succeed on a DC 12 Wisdom saving throw or use its next movement to move toward the bog lantern." }] },
+    { "kind": "spell", "name": "Lantern Mote", "level": 1, "school": "evocation", "castingTime": "1 bonus action", "range": "60 feet", "components": "V, S, M (a pinch of ash)",
+      "duration": "Concentration, up to 1 minute", "description": "A mote of light circles a creature you can see. Until the spell ends, attack rolls against that creature can't benefit from it being invisible." },
+    { "kind": "item", "name": "Marsh Lantern", "itemType": "wondrous item", "rarity": "uncommon", "price": "150 gp", "weight": 2, "description": "This hooded lantern sheds bright light in a 30-foot radius that also reveals footprints made in the last hour." }
+  ]
+}

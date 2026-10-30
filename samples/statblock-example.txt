@@ -1,0 +1,16 @@
+Reed Stalker
+Medium monstrosity, unaligned
+Armor Class 14 (natural armor)
+Hit Points 33 (6d8 + 6)
+Speed 30 ft., swim 30 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 15 (+2) 12 (+1) 3 (-4) 12 (+1) 6 (-2)
+Skills Perception +3, Stealth +6
+Senses darkvision 60 ft., passive Perception 13
+Languages —
+Challenge 1 (200 XP)
+Reed Camouflage. The reed stalker has advantage on Dexterity (Stealth) checks made to hide in marsh terrain.
+Actions
+Multiattack. The reed stalker makes two attacks: one with its bite and one with its claws.
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+Claws. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
